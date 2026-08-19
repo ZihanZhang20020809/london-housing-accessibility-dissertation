@@ -70,6 +70,11 @@ After extraction, the repository should contain:
     ├── MSOA_2011_London_gen_MHW.shx
     ├── MSOA_2011_London_gen_MHW.dbf
     ├── MSOA_2011_London_gen_MHW.prj
+    ├── New Housing Applications - Completed ... (11 CSV files)
+    ├── LSOA_2011_London_gen_MHW.shp
+    ├── LSOA_2011_London_gen_MHW.shx
+    ├── LSOA_2011_London_gen_MHW.dbf
+    ├── LSOA_2011_London_gen_MHW.prj
     └── outputs/
 
 The `outputs` directory will be created automatically when the notebooks are executed.
